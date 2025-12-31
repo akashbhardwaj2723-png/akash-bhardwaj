@@ -1,3 +1,3 @@
 # akash-bhardwaj
-This is a may first repositry
+This is a may first Git repositry.
 Author-Akash Bhardwaj
